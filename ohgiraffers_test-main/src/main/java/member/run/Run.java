@@ -30,5 +30,6 @@ public class Run {
         int price = 10000;
         memberRepository.printBuyInfo(price);
 
+        // 커밋 해보자
     }
 }
